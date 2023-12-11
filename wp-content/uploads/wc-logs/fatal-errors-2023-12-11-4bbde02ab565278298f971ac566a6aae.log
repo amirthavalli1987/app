@@ -1,0 +1,2 @@
+2023-12-11T12:01:28+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\wamp64\www\app\wp-includes\Requests\src\Transport\Curl.php on line 506
+
